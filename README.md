@@ -1,3 +1,8 @@
+This is a fork of https://www.khanhph.com/install-proxmox-kubernetes/
+I intent to modify to suit the bgp provider
+
+
+
 ## About the project
 
 This project allows you to create a Kubernetes cluster on [Proxmox VE](https://pve.proxmox.com/wiki/Main_Page) using [Terraform](https://www.terraform.io/) and [Kubespray](https://github.com/kubernetes-sigs/kubespray) in a declarative manner.
